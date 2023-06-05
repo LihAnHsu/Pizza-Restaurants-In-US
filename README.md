@@ -1,6 +1,8 @@
 # Pizza-Restaurants-In-US
 This project is analyzed purely using SQLite for Data Cleaning and Exploratory Data Analysis (EDA)
 
+Data is downloaded from data.world and Python is applied to convert the csv file into database for SQLite use.
+
 License: CC BY-NC-SA
 
 Findings:
