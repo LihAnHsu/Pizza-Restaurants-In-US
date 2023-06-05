@@ -4,6 +4,7 @@ This project is analyzed purely using SQLite for Data Cleaning and Exploratory D
 License: CC BY-NC-SA
 
 Findings:
+
 1)Marina Del Rey in CA has the most expensive average pizza $ 163.3
   Jamaica, Philadelphia in Queens, Wm Penn Anx W respectively have the cheapst average pizza $ 1 
 
