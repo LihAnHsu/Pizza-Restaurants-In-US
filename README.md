@@ -24,5 +24,4 @@ Findings:
 6)Monday serves the most pizza amount (1417 times of menu being viewed)
 
 Here's the viz final result, feel free to poke around the dashboard:
-
-https://public.tableau.com/views/PizzaRestaurantsInUS/PizzainUSDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/PizzaRestaurantsInUS/PizzainUSDashboard_1?:language=en-US&:display_count=n&:origin=viz_share_link
